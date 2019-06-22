@@ -1,2 +1,2 @@
 # syncer
-Data Real-time Synchronizer
+Distributed Data Real-time Synchronizer
